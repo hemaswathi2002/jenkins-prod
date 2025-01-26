@@ -23,6 +23,7 @@ pipeline {
                 sh "terraform version"
                 sh "packer version"
                 sh "trivy --version"
+                sh "trivy --version"
             }
         }
 
