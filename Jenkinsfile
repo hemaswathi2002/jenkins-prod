@@ -1,4 +1,4 @@
-// Declarative Pipelines
+// Declarative Pipeline
 def VERSION = '1.0.0'
 
 pipeline {
